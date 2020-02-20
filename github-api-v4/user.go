@@ -1,6 +1,6 @@
-package main
+package github_api_v4
 
-func User(username string, token string)  {
+func User(username string)  {
 
 	
 }
